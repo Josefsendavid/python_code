@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/v2/gh/Josefsendavid/python_code/main)
+[![Binder](https://hub.gke2.mybinder.org/user/josefsendavid-python_code-b5jqlnnh/tree)
 # python Handin Template
 This is how you get study points for python elective. 10 out of 13 handins must be approved.
 1. Clone or fork this template (to use for all handins on the python elective course).

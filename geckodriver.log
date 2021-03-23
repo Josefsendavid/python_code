@@ -54,3 +54,629 @@ Error: no DISPLAY environment variable specified
 Error: no DISPLAY environment variable specified
 1616512417358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewou0Ap"
 Error: no DISPLAY environment variable specified
+1616512804138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMK2O1Z"
+Error: no DISPLAY environment variable specified
+1616514444037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiaDRq6"
+Unable to init server: Broadway display type not supported: host.docker.internal:0
+Error: cannot open display: host.docker.internal:0
+1616514465088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGnHwQa"
+Unable to init server: Broadway display type not supported: host.docker.internal:0
+Error: cannot open display: host.docker.internal:0
+1616514599683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunrujQ"
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+[GFX1-]: glxtest: libpci missing
+
+(firefox:55): LIBDBUSMENU-GLIB-WARNING **: 15:50:01.517: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616514604151	Marionette	INFO	Listening on port 37697
+1616514604292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616514604325	Marionette	ERROR	[15] No reply from Marionette:Register
+1616514620107	Marionette	ERROR	[33] No reply from Marionette:Register
+1616514809848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMhpdQB"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:323): LIBDBUSMENU-GLIB-WARNING **: 15:53:31.223: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616514814526	Marionette	INFO	Listening on port 32947
+1616514814608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616514814635	Marionette	ERROR	[15] No reply from Marionette:Register
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5617 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5617 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5225 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5225 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 797 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 797 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1616514849978	Marionette	INFO	Stopped listening on port 37697
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616514883201	Marionette	ERROR	[33] No reply from Marionette:Register
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:571:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:571:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4883 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4883 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 832 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 832 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616515032410	Marionette	INFO	Stopped listening on port 32947
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616515469179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDbS6RN"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:631): LIBDBUSMENU-GLIB-WARNING **: 16:04:30.685: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616515473764	Marionette	INFO	Listening on port 43523
+1616515473831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616515473851	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2939 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2939 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7201 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7201 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616515509223	Marionette	INFO	Stopped listening on port 43523
+1616515515274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledgG1fW"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:873): LIBDBUSMENU-GLIB-WARNING **: 16:05:16.623: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616515519020	Marionette	INFO	Listening on port 40299
+1616515519161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616515519223	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 698 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 698 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616515563103	Marionette	ERROR	[33] No reply from Marionette:Register
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet32, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet39, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet40, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet41, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet42, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet43, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet44, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet45, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet46, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet47, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet48, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:28\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:100:21\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1690:21\nCanCloseWindow@chrome://browser/content/browser.js:7876:36\nWindowIsClosing@chrome://browser/content/browser.js:7893:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "Error while destroying front:" "performance" (new Error("Connection closed, pending request to server0.conn0.child3/performanceActor10, type connect failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nconnect@resource://devtools/client/fronts/performance.js:49:36\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.error: (new Error("Connection closed, pending request to server0.conn0.watcher4, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_startListening@resource://devtools/shared/resources/resource-watcher.js:674:31\nwatchResources@resource://devtools/shared/resources/resource-watcher.js:143:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript error: resource://devtools/client/shared/WeakMapMap.js, line 73: TypeError: WeakMap key must be an object, got key
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child3/performanceActor10, type connect failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+connect@resource://devtools/client/fronts/performance.js:49:36
+
+1616515591762	Marionette	INFO	Stopped listening on port 40299
+1616515632052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileslACxZ"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:1142): LIBDBUSMENU-GLIB-WARNING **: 16:07:13.400: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616515635524	Marionette	INFO	Listening on port 39007
+1616515635597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616515635625	Marionette	ERROR	[15] No reply from Marionette:Register
+1616515647348	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5673 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5673 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.dba.dk"
+1616515734810	Marionette	ERROR	[33] No reply from Marionette:Register
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:window["contents"]'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:window["contents"]'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.dba.dk"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616516034430	Marionette	INFO	Stopped listening on port 39007
+1616516036996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeawKdH"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:1420): LIBDBUSMENU-GLIB-WARNING **: 16:13:58.352: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516040595	Marionette	INFO	Listening on port 41115
+1616516040648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516040670	Marionette	ERROR	[15] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6299 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6299 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616516080172	Marionette	INFO	Stopped listening on port 41115
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616516087079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJXsx7j"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:1664): LIBDBUSMENU-GLIB-WARNING **: 16:14:48.411: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516090482	Marionette	INFO	Listening on port 43109
+1616516090525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516090549	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2730 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2730 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5302 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5302 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1616516128301	Marionette	INFO	Stopped listening on port 43109
+1616516130501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB61WrT"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:1911): LIBDBUSMENU-GLIB-WARNING **: 16:15:31.831: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516134367	Marionette	INFO	Listening on port 41627
+1616516134445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516134467	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5140 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5140 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1747 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1747 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616516179529	Marionette	INFO	Stopped listening on port 41627
+1616516357348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileACW2Um"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:2164): LIBDBUSMENU-GLIB-WARNING **: 16:19:18.884: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516362127	Marionette	INFO	Listening on port 35911
+1616516362200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516362220	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1759 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1759 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2296 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2296 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616516512999	Marionette	INFO	Stopped listening on port 35911
+1616516739068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpDxdC"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:2434): LIBDBUSMENU-GLIB-WARNING **: 16:25:40.655: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516744713	Marionette	INFO	Listening on port 36955
+1616516744848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516744870	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4967 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4967 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7417 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7417 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1001 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1001 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616516777239	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3676 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3676 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6725 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6725 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1616516810944	Marionette	INFO	Stopped listening on port 36955
+1616516813367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileni64M2"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:2690): LIBDBUSMENU-GLIB-WARNING **: 16:26:54.736: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516816645	Marionette	INFO	Listening on port 41945
+1616516816707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516816728	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2935 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2935 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5165 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5165 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+[Child 2778, MediaDecoderStateMachine #1] WARNING: Decoder=7f63a1536000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:368
+[Child 2778, MediaDecoderStateMachine #1] WARNING: Decoder=7f63a1536000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4518 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4518 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616516907914	Marionette	INFO	Stopped listening on port 41945
+1616516909391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2749U1"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:2954): LIBDBUSMENU-GLIB-WARNING **: 16:28:30.996: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616516913237	Marionette	INFO	Listening on port 41445
+1616516913337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616516913365	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4344 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4344 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 110 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 110 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616516945776	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7706 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7706 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7488 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7488 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616517014649	Marionette	INFO	Stopped listening on port 41445
+1616517640567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0w800s"
+[GFX1-]: glxtest: libpci missing
+
+(firefox:3215): LIBDBUSMENU-GLIB-WARNING **: 16:40:42.202: Unable to get session bus: Failed to execute child process “dbus-launch” (No such file or directory)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616517644974	Marionette	INFO	Listening on port 42553
+1616517645016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616517645046	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2272 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2272 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4758 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4758 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 943 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 943 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6301 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6301 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 757 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 757 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1616517677450	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://cdn.bluebillywig.com/apps/player/20210322.125833/player.js line 281 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5010 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5010 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4386 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4386 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1616517772077	Marionette	INFO	Stopped listening on port 42553

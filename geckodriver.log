@@ -1,0 +1,56 @@
+1616493620773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLyCjMN"
+Error: no DISPLAY environment variable specified
+1616493692989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2N3VU"
+Error: no DISPLAY environment variable specified
+1616493775507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQu3KyW"
+Error: no DISPLAY environment variable specified
+1616493801271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile496PWk"
+Error: no DISPLAY environment variable specified
+1616493812392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWTJwYz"
+Error: no DISPLAY environment variable specified
+1616494040643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX88PKP"
+Error: no DISPLAY environment variable specified
+1616494139864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNJ5Or7"
+Error: no DISPLAY environment variable specified
+1616495159442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTawogy"
+Error: no DISPLAY environment variable specified
+1616495168601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTygA6e"
+Error: no DISPLAY environment variable specified
+1616495180063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2LoJJA"
+Error: no DISPLAY environment variable specified
+1616497184978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile589e3P"
+Error: no DISPLAY environment variable specified
+1616497207131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCY1SoH"
+1616497207132	geckodriver::marionette	DEBUG	Waiting 60s to connect to browser on 127.0.0.1:42679
+Error: no DISPLAY environment variable specified
+1616497207233	mozrunner::runner	DEBUG	Killing process 446
+1616497207233	webdriver::server	DEBUG	<- 500 Internal Server Error {"value":{"error":"unknown error","message":"invalid argument: can't kill an exited process","stacktrace":""}}
+1616497243838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7t5owI"
+1616497243839	geckodriver::marionette	DEBUG	Waiting 60s to connect to browser on 127.0.0.1:40753
+Error: no DISPLAY environment variable specified
+1616497243940	mozrunner::runner	DEBUG	Killing process 462
+1616497243940	webdriver::server	DEBUG	<- 500 Internal Server Error {"value":{"error":"unknown error","message":"invalid argument: can't kill an exited process","stacktrace":""}}
+1616497249172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesNja7C"
+1616497249173	geckodriver::marionette	DEBUG	Waiting 60s to connect to browser on 127.0.0.1:34775
+Error: no DISPLAY environment variable specified
+1616497249274	mozrunner::runner	DEBUG	Killing process 477
+1616497249274	webdriver::server	DEBUG	<- 500 Internal Server Error {"value":{"error":"unknown error","message":"invalid argument: can't kill an exited process","stacktrace":""}}
+1616497255274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXKXtrD"
+1616497255275	geckodriver::marionette	DEBUG	Waiting 60s to connect to browser on 127.0.0.1:43337
+Error: no DISPLAY environment variable specified
+1616497255375	mozrunner::runner	DEBUG	Killing process 489
+1616497255376	webdriver::server	DEBUG	<- 500 Internal Server Error {"value":{"error":"unknown error","message":"invalid argument: can't kill an exited process","stacktrace":""}}
+1616499801662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekkKFPp"
+Error: no DISPLAY environment variable specified
+1616499809371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef7WjIp"
+Error: no DISPLAY environment variable specified
+1616499835634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesYOpu3"
+Error: no DISPLAY environment variable specified
+1616499842386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWibabS"
+Error: no DISPLAY environment variable specified
+1616499853514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenJ4jKd"
+Error: no DISPLAY environment variable specified
+1616499861235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI1BcsP"
+Error: no DISPLAY environment variable specified
+1616512417358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewou0Ap"
+Error: no DISPLAY environment variable specified
